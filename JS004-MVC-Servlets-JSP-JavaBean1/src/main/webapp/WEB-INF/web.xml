@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+	<servlet>
+		<servlet-name>LoginController</servlet-name>
+		<servlet-class>LoginController</servlet-class>
+	</servlet>
+	<serevlet-mapping>
+		<servlet-name>LoginController</servlet-name>
+		<url-pattern>LoginController</url-pattern>
+	</serevlet-mapping>
+</web-app>

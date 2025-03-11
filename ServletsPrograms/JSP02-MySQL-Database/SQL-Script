@@ -1,0 +1,9 @@
+MySQL :
+  
+    
+ 
+create table userdetail(name varchar(20),password varchar(20),
+                                        usertype varchar(20));
+
+
+mysql> insert into userdetail values("ramesh","ramesh","admin");

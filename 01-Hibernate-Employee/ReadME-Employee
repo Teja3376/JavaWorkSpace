@@ -1,0 +1,2 @@
+mysql> insert into employee values(100,"Ramesh",55000,'2024-10-10',10);
+       insert into employee values(200,"Raju",65000,'2024-10-10',20);

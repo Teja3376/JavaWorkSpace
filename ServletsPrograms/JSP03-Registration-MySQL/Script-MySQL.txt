@@ -1,0 +1,13 @@
+MySQL
+create table userReg (name varchar(25),                      
+          password varchar(25),                   
+          address varchar(25),                    
+          telno int);
+
+
+create table userReg (name varchar(25),                      
+          password varchar(25),                   
+          address varchar(25),                    
+          telno int);
+          
+ 

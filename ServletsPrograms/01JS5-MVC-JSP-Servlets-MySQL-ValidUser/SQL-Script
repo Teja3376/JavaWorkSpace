@@ -1,0 +1,6 @@
+
+create table register(username varchar(20),password varchar(20));
+
+
+ insert into register values("ramesh","ramesh");
+

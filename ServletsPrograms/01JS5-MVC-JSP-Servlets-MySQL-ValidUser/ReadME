@@ -1,0 +1,15 @@
+
+
+
+login.jsp :-
+ this will input username and password
+success.jsp :
+ If login is successful, then this page is displayed
+error.jsp :
+ If login is not successful then this page is displayed.
+LoginController.java :
+ This is controller part of the application which communicates with model
+Authenticator.java :
+ Has business logic for authentication
+User.java :
+ Stores username and password for the user.

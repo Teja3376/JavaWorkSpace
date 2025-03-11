@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN" "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+<beans>
+
+	<bean id = "studentservice1" class ="studentPackage.StudentBean">
+	 <property name = "sno"> <value>1</value></property>
+	 <property name = "sname"> <value>Charan</value></property>
+	 <property name = "sage"> <value>20</value></property>
+	</bean>
+
+</beans>

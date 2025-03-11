@@ -1,0 +1,8 @@
+
+
+//mysql : 
+create table customer(cas int primary key,username char(20),email char(25));
+
+
+// oracle : 
+CREATE TABLE CUSTOMER_MVC(CID NUMBER(3), CNAME VARCHAR2(20), EMAIL VARCHAR2(25), MOBILE VARCHAR2(20));

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "file:///C:\StudentTribe\All jars\hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+	<class name = "package1.StudentBean" table = "student">
+		<id name = "sno" type = "int">
+			<generator class="sequence"></generator>
+		</id>
+		<property name = "sname" column = "sname"></property>
+		<property name = "sage" column = "sage"></property>
+		<property name = "smarks" column = "smarks"></property>
+	</class>
+</hibernate-mapping>
